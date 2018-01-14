@@ -13,11 +13,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://moratoria.eu/" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/moratoria_
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  github: https://github.com/moratoria
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  email: hola@moratoria.eu
   #flickr:
   #instagram:
   #youtube-square:
