@@ -19,6 +19,7 @@ En la  Figura podemos ver cómo ha subido el precio del alquiler en cada distrit
 						<div class="12u"><span class="image fit"><img src="images/figura_1.png" alt="" /></span></div>
 					</div>
 				</div>
+				<h5>Figura 1: Incremento en el precio de alquiler entre 2013 y 2017.</h5>
 			</section>
 <p>Es bien conocido que el mercado de alquiler es sumamente frágil frente a movimientos financieros. Mejor dicho: las personas que viven de alquiler son sumamente vulnerables a los procesos especulativos o de financiarización de la vivienda. La falta de un parque público de vivienda en alquiler, o de una regulación de los precios por zonas, o la misma Ley de Arrendamientos Urbanos (LAU) hacen que así sea. De este modo, los tres niveles principales de la Administración pierden la oportunidad de dejar de ser meros servidores de los poderes financieros también en materia de vivienda, y de adoptar medidas de apoyo a la población más vulnerable a los ciclos inmobiliarios para impedir, de hecho, que estos no solo regulen los precios, sino también los procesos de exclusión social.
 </p>
@@ -30,9 +31,25 @@ En la  Figura podemos ver cómo ha subido el precio del alquiler en cada distrit
 </p>
 <p>Sin embargo, si comparamos los datos del momento de máximo apogeo de la burbuja, en torno a 2008, con los datos en la actualidad, emerge una cuestión inquietante, que puede verse en la  Figura. Aunque la supuesta recuperación no se está notando en los salarios, los precios de los alquileres muestran, en la actualidad, valores iguales a los de 2008 (momento en que alcanzaron su máximo histórico) en casi la mitad de los distritos de Madrid. La nueva burbuja inmobiliaria alcanza ya una magnitud preocupante, y los efectos están siendo devastadores. Este fenómeno divide la ciudad de Madrid en dos mitades. Si bien todos los distritos han sufrido espectaculares subidas de los alquileres, en el sureste de la ciudad los precios de los alquileres siguen siendo inferiores a los de 2008. Es decir, su capacidad de subida aún es mayor, y es probable que muy pronto el precio de los alquileres en estos distritos suba considerablemente. 
 </p>
-<p>¿La culpa es del turismo?
-Para comprender la influencia del turismo en el mercado de los alquileres, sería necesario conocer los datos reales de número de camas disponibles para turistas. A partir de las ofertas en AirBnB y del censo de hoteles del Ayuntamiento de Madrid, la  Figura muestra una aproximación a la penetración del turismo en los barrios de Madrid. Resulta obvio el desequilibrio existente en favor del barrio de Sol, que tiene 22.000 camas para turistas. Le siguen Cortes y Embajadores, que a su vez tienen bastantes más camas que Palacio, Justicia y Universidad. Para el resto de barrios, en los que como hemos visto los alquileres suben a velocidades inauditas, la cantidad de camas para turistas es prácticamente inexistente, lo que plantea la cuestión de hasta qué punto existe una relación real con el aumento del turismo.
+	<section>
+				<div class="box alt">
+					<div class="row uniform 50%">
+						<div class="12u"><span class="image fit"><img src="images/figura_2.png" alt="" /></span></div>
+					</div>
+				</div>
+				<h5>Figura 2: Incremento en el precio de alquiler entre 2008 y 2017.</h5>
+			</section>
+<h3>¿La culpa es del turismo?</h3>
+<p>Para comprender la influencia del turismo en el mercado de los alquileres, sería necesario conocer los datos reales de número de camas disponibles para turistas. A partir de las ofertas en AirBnB y del censo de hoteles del Ayuntamiento de Madrid, la  Figura muestra una aproximación a la penetración del turismo en los barrios de Madrid. Resulta obvio el desequilibrio existente en favor del barrio de Sol, que tiene 22.000 camas para turistas. Le siguen Cortes y Embajadores, que a su vez tienen bastantes más camas que Palacio, Justicia y Universidad. Para el resto de barrios, en los que como hemos visto los alquileres suben a velocidades inauditas, la cantidad de camas para turistas es prácticamente inexistente, lo que plantea la cuestión de hasta qué punto existe una relación real con el aumento del turismo.
 </p>
+	<section>
+				<div class="box alt">
+					<div class="row uniform 50%">
+						<div class="12u"><span class="image fit"><img src="images/figura_3.png" alt="" /></span></div>
+					</div>
+				</div>
+				<h5>Figura 3: Distribución de camas para turistas (hoteles+VUT por kilómetro cuadrado) por barrios.</h5>
+			</section>
 <p>El crecimiento del turismo en la ciudad de Madrid (en España la inversión hotelera creció el 79% en 2017) ha impulsado el negocio de los pisos de alquiler turístico. Solo en la plataforma Airbnb hay 15.288 ofertas en la capital, de las que el 64% pertenecen a multipropietarios. Como se observa en la  Figura, al igual que los hoteles, la mayor parte de la oferta se concentra en la zona centro de la ciudad, entregada a la turistización. Así, la atribución de una influencia directa de este fenómeno sobre los precios de los alquileres no parece tener una base real y solo puede calificarse como especulativa.
 </p>
 <p>La distribución de viviendas de uso turístico, si atendemos a los datos, reproduce fielmente la distribución de hoteles. Así, aún siendo modelos de negocio más antiguos o más nuevos, se ve que responden a un mismo fenómeno y un mismo interés por cada zona, como parecen confirmar los los numerosos proyectos de hostelería convencional que están apareciendo en Centro. Las medidas que busquen abordar el problema de la turistización, por tanto, no pueden intervenir afectando una sola parte del modelo de negocio turístico.
@@ -42,6 +59,14 @@ Para comprender la influencia del turismo en el mercado de los alquileres, serí
 </p>
 <p>Esta combinación de datos sirve para señalar algunos barrios en los que sin duda gran parte de la población no tiene capacidad para pagar los precios que se están ofertando en estos momentos. Es decir, es susceptible de ser expulsada en corto plazo. Por supuesto los de Centro, donde está golpeando más fuerte la turistización sumada a procesos previos de gentrificación ya comentados. Las cifras de quienes se han ido de centro son altísimas (10.000 vecinas menos desde 2010, según el padrón) y cabe recordar que estos desplazamientos se dan a otros barrios, trasladando la presión a los mismos y pudiendo derivar en una reacción en cadena que señala cómo el turismo descontrolado afecta mucho más allá del centro de la ciudad. En la  Figura vemos cómo la población es susceptible de ser expulsada también en barrios del Puente de Vallecas, una zona con porcentaje alto de viviendas en alquiler, rentas bajas, bien comunicada, con sabor popular: todo esto hace de ella un objetivo de inversión (también turística). Si se prescinde, claro, de quienes viven allí. O los barrios de distrito de Latina y Usera que bordean Madrid Río, que reúnen también esas características aunque una inversión pública abultada los ha dejado ya en mejor disposición para la recogida de beneficios. 
 </p>
+	<section>
+				<div class="box alt">
+					<div class="row uniform 50%">
+						<div class="12u"><span class="image fit"><img src="images/figura_5.png" alt="" /></span></div>
+					</div>
+				</div>
+				<h5>Figura 5: Relación entre el precio de la oferta de alquiler y la renta media por barrio.</h5>
+			</section>
 <p>Por último, es de destacar que dos de los barrios que aparecen en esta figura como más frágiles frente al incremento del alquiler (Hellín y Berruguete) sean mencionados por estudios de inversión como aquellos que ofrecen «rentabilidades de alquiler de vértigo». Cuando quienes piensan en la vivienda en términos de producto financiero posan su mirada sobre estos distritos es que algo muy urgente está pasando en ellos, y no precisamente a favor de quienes allí viven. Por todo ello, urge regular la subida de los alquileres y los pisos vacíos (que en la Comunidad de Madrid superan los 200.000) a través de la reforma de la LAU.
 </p>
 <h3>Los efectos de la descomposición</h3>
