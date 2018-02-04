@@ -1,0 +1,147 @@
+---
+layout: landing
+---
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>{{ site.title }}</h2>
+							<p>{{ site.description | markdownify }}</p>
+							<h3 style="font-weight: normal;font-size:1em;">ESTAMOS A TIEMPO DE DEFENDER LA VIDA DE NUESTRA CIUDAD </h3>
+
+							<ul class="actions">
+								<li><a target="_blank" href="https://decide.madrid.es/proposals/20657-moratoria-turistica-en-el-centro-de-madrid" class="button special">Apoya la propuesta</a></li>
+							</ul>
+						</div>
+						<a href="#one" class="more scrolly">Más información</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special" style="padding: 4em 0 3em 0;">
+						<div class="inner">
+							<header>
+								<h2 style="padding-bottom: 1em;">¿Cuándo nos tocará irnos?<br /></h2>
+							</header>
+<div class="videoWrapper">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/1YEmE78XS8Q?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+							
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+<section class="spotlight">
+							<div class="image"><img src="images/plano_airbnb_ayto_madrid.jpeg" alt="" /></div><div class="content">
+								<h2>¿Qué moratoria turística necesita Madrid?</h2>
+								<p>Hace unos días, una alianza de colectivos sociales presentó  una campaña a favor de una moratoria turística en la ciudad de Madrid, la cual formulaba u na propuesta ciudadana en la plataforma de participación del Ayuntamiento Decide Madrid. Y el pasado miércoles el Ayuntamiento  anunció algo que podría ir en esta línea, aunque no se desvelaron los detalles (ni se ha contado con los agentes sociales para la redacción del anunciado plan), más allá de que la iniciativa estaría restringida a las licencias para viviendas de uso turístico y al centro de la ciudad. </p> 
+<p>Para poner en contexto la oportunidad de la petición ciudadana, y para señalar la importancia de que una tal moratoria no afecte solo a las viviendas de uso turístico y de que no esté circunscrita al centro, es interesante echarle un vistazo a los datos acerca de cómo está siendo afectada toda la ciudad por los procesos especulativos en general y, en particular, por los asociados al turismo.</p>
+
+							</div>
+						</section>
+					
+						<section class="spotlight">
+							<div class="image"><img src="images/mapa-calor2.jpeg" alt="" /></div><div class="content">
+								<h2>Lo que está pasando</h2>
+								<p>El turismo masivo está modificando a gran velocidad la vida en Madrid. Estamos viviendo un cambio del modelo de ciudad, que estratifica sus usos: de residencial a turístico, de habitable a visitable: una suerte de ciudad escaparate que conlleva la subida del precio de la vivienda en toda la ciudad, la expulsión de las vecinas y vecinos, la pérdida e imposibilidad de regeneración de vínculos y redes vecinales.</p> 
+<p>Este modelo turístico se está construyendo sobre una creciente precariedad laboral en el sector, en torno a una nueva burbuja inmobiliaria y sin tener en cuenta a las vecinas y vecinos que habitamos y damos sentido a la ciudad de Madrid.</p>
+<p>El centro es el epicentro, pero la onda expansiva afecta a toda la ciudad. Barrios periféricos están en el punto de mira de los grandes operadores, la subida de precios se contagia y gran parte de la población se ve obligada a desplazarse, encareciendo los precios y haciendo que toda la ciudad se transforme.</p>
+						<p><a class="button small" href="que-moratoria-turistica-necesita-madrid.html">Leer más</a></p>	</div>
+						</section>
+            	<section class="spotlight">
+							<div class="image"><img src="images/Rueda-prensa.jpg" alt="" /></div>
+							<div class="content" style="padding:4em;">
+								<h2>Colectivos sociales, vecinales, ecologistas, se unen por el derecho a la vivienda y a la ciudad</h2>
+								<p>Martes 16/01/2018 - Rueda de prensa. </ br>Comenzamos un ciclo de acciones que exigen una moratoria urgente y un plan especial, participado y meditado, q asegure...</p>
+							<p><a class="button small" href="rueda-de-prensa.html">Leer más</a></p>
+								
+							</div>
+						</section>
+
+					</section>
+				<!-- Three -->
+					<section id="three" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Moratoria o Barbarie</h2>
+								<p>La aceleración del fenómeno en datos y consecuencias.</p>
+							</header>
+							<ul class="features">
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">10.000 </p><h3>vecinos menos en Centro</h3>
+									<p>2010-2017 <br />Fuente: Padrón municipal de Madrid</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">73.878</p><h3>plazas turísticas</h3>
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">149.718</p><h3>habitantes</h3>
+									<p>2017 Distrito Centro 1 plaza turística por cada 2 habitantes<br />Fuente: <a href="http://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Radiografia-del-sector-hotelero-en-Madrid?vgnextfmt=default&vgnextoid=5d756379b9ca9510VgnVCM2000001f4a900aRCRD&vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD">munimadrid</a></p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">+ 39,9%</p><h3>precios del alquiler en Vallecas</h3>
+									<p>2014-2017 <br />Fuente: Idealista</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">+ 39,1%</p><h3>precios del alquiler Distrito Centro</h3>
+									<p>2014-2017 <br />Fuente: Idealista</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">+ 70%</p><h3>compraventa pisos en Madrid</h3>
+									<p>2013-2017 <br />Fuente: INE</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">6.780</p><h3>Ofertas en Airbnb Distrito Centro </h3>
+									<p>13.350 en toda la ciudad</p><p>2017 <br />Fuente: InsideAirbnb</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:3em;line-height:1em;color:#fff;margin:0;">194.162.491 €</p><h3>Ingresos a través de Airbnb</h3>
+									<p>2017 <br />Fuente: InsideAirbnb</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:3em;line-height:1em;color:#fff;margin:0;">23.299.499 €</p><h3>Beneficios de Airbnb</h3>
+									<p>2017 <br />Fuente: InsideAirbnb</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">4.3%</p><h3>117.905 noches</h3>
+									<p>de alquiler en Airbnb modelo P2P en 2017 <br />Fuente: Inside Airbnb</p>
+								</li>
+								<li style="text-align:center;">
+									<p style="font-size:5em;line-height:1em;color:#fff;margin:0;">95.7%</p><h3>2.627.542 noches</h3>
+									<p>de alquiler en Airbnb VUT -viviendas de uso turístico profesional- en 2017 <br />Fuente: Inside Airbnb</p>
+								</li>
+							</ul>
+							
+									<ul class="features">
+								<li style="text-align:center;">
+									<p>La multiplicación del número de alojamientos turísticos se acelera y dispara los precios de la vivienda, tanto en el alquiler como en la compra.</p>
+								</li>
+								<li style="text-align:center;">
+									<p>Los barrios de Centro se van convirtiendo en el espacio de ocio y compras por excelencia de toda la ciudad, las dotaciones públicas (espacios de educación infantil, centros de mayores, zonas verdes, equipamientos deportivos) se ven disminuidos.</p>
+								</li>
+								<li style="text-align:center;">
+									<p>El centro se despuebla pero sigue necesitando trabajadores que acudan a diario incrementa la necesidad de transporte.</p>
+								</li>
+								<li style="text-align:center;">
+									<p>El centro queda como lugar de acceso privilegiado y los barrios limítrofes se convierten en zonas de tránsito o de aparcamiento.</p>
+								</li>
+								<li style="text-align:center;">
+									<p>El sector turístico, monocultivo económico en el distrito Centro, solo crea empleo por debajo del crecimiento real del turismo y un empleo que es, además, precario, temporal, parcial y de bajos salarios.</p>
+								</li>
+								<li style="text-align:center;">
+									<p>La convivencia entre residentes y turistas, entre vivienda y negocio, en un mismo edificio puede ser inviable.</p>
+								</li>
+							</ul>
+						</div>
+					</section>
+
+
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<h2>Necesitamos urgentemente parar, pensar y actuar</h2>
+								<p>Para ello, lo primero que hemos puesto en marcha es una propuesta vinculante en el portal de MadridDecide.</p>
+							</header>
+							<ul class="actions vertical">
+								<li><a target="_blank" href="https://decide.madrid.es/proposals/20657-moratoria-turistica-en-el-centro-de-madrid" class="button fit special">Participa</a></li>
+							</ul>
+						</div>
+					</section>
